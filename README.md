@@ -11,9 +11,7 @@ This repository contains a collection of exercises designed to help students mas
 5. [Polymorphism](#polymorphism)
 6. [Memory Management](#memory-management)
 7. [Advanced Topics](#advanced-topics)
-8. [How to Use](#how-to-use)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [Contributing](#contributing)
 
 ## Exercise Categories
 
